@@ -1,0 +1,7 @@
+E:\projetos visual studio\exercicio sobre herança 2\Segunda lista de exercicios sobre herança\bin\Debug\Segunda lista de exercicios sobre herança.exe.config
+E:\projetos visual studio\exercicio sobre herança 2\Segunda lista de exercicios sobre herança\bin\Debug\Segunda lista de exercicios sobre herança.exe
+E:\projetos visual studio\exercicio sobre herança 2\Segunda lista de exercicios sobre herança\bin\Debug\Segunda lista de exercicios sobre herança.pdb
+E:\projetos visual studio\exercicio sobre herança 2\Segunda lista de exercicios sobre herança\obj\Debug\Segunda lista de exercicios sobre herança.csprojAssemblyReference.cache
+E:\projetos visual studio\exercicio sobre herança 2\Segunda lista de exercicios sobre herança\obj\Debug\Segunda lista de exercicios sobre herança.csproj.CoreCompileInputs.cache
+E:\projetos visual studio\exercicio sobre herança 2\Segunda lista de exercicios sobre herança\obj\Debug\Segunda lista de exercicios sobre herança.exe
+E:\projetos visual studio\exercicio sobre herança 2\Segunda lista de exercicios sobre herança\obj\Debug\Segunda lista de exercicios sobre herança.pdb
